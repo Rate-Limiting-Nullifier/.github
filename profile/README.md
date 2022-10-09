@@ -8,6 +8,8 @@
 
 [RLN Circom circuits](https://github.com/Rate-Limiting-Nullifier/rln_circuits)
 
+[Zerokit - Rust RLN library in collaboration with the Vac Team](https://github.com/vacp2p/zerokit)
+
 *This Github organization is maintained by the PSE ([Privacy & Scaling Explorations](https://github.com/privacy-scaling-explorations/)), a multidisciplinary team supported by the Ethereum Foundation. PSE explores new use cases for zero-knowledge proofs and other cryptographic primitives.*
 
 <!--
