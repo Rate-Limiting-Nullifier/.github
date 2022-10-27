@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/Rate-Limiting-Nullifier/.github/blob/main/profile/logo.svg" width="400">
+<img align="left" src="https://github.com/Rate-Limiting-Nullifier/.github/blob/main/profile/logo.svg" width="500">
 
 <!-- ## Hi there 👋 Welcome to RLN! -->
 
@@ -6,7 +6,7 @@
 
 * [Documentation](rate-limiting-nullifier.github.io/rln-docs/) - Learn how RLN works
 
-* [RLNjs](https://github.com/Rate-Limiting-Nullifier/rlnjs) - Typescript library for RLN
+* [RLN JS](https://github.com/Rate-Limiting-Nullifier/rlnjs) - Typescript library for RLN
 
 * [RLN Circom](https://github.com/Rate-Limiting-Nullifier/rln_circuits) - Circom circuits for RLN
 
