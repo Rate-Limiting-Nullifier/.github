@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/Rate-Limiting-Nullifier/.github/blob/main/profile/logo.svg" width="450">
+<img align="left" src="https://github.com/Rate-Limiting-Nullifier/.github/blob/main/profile/logo.svg" width="400" height="500">
 
 <!-- ## Hi there 👋 Welcome to RLN! -->
 
