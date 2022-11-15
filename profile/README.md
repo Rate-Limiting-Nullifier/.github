@@ -8,6 +8,6 @@
 
 * [RLN JS](https://github.com/Rate-Limiting-Nullifier/rlnjs) - Typescript library for RLN
 
-* [Zerokit/pmtree](https://github.com/Rate-Limiting-Nullifier/pmtree) - Rust RLN library in collaboration with Vac team
+* [Persistent Merkle Tree (PMTree)](https://github.com/Rate-Limiting-Nullifier/pmtree) - Rust RLN library in collaboration with Vac team
 
 *This Github organization is maintained by the **PSE** ([Privacy & Scaling Explorations](https://github.com/privacy-scaling-explorations/)), a multidisciplinary team supported by the **Ethereum Foundation**. **PSE** explores new use cases for zero-knowledge proofs and other cryptographic primitives.*
