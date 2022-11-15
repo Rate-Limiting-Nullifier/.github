@@ -2,7 +2,7 @@
 
 **RLN** is a zk-gadget that enables spam prevention mechanism for anonymous environments 🧙
 
-* [Documentation](rate-limiting-nullifier.github.io/rln-docs/) - Learn how RLN works
+* [Documentation](https://rate-limiting-nullifier.github.io/rln-docs/) - Learn how RLN works
 
 * [RLN Circom](https://github.com/Rate-Limiting-Nullifier/rln_circuits) - Circom circuits for RLN
 
