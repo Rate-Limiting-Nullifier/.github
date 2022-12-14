@@ -4,7 +4,7 @@
 
 * [Documentation](https://rate-limiting-nullifier.github.io/rln-docs/) - Learn how RLN works
 
-* [RLN Circom](https://github.com/Rate-Limiting-Nullifier/rln_circuits) - Circom circuits for RLN
+* [RLN Circuits](https://github.com/Rate-Limiting-Nullifier/rln-circuits) - Circom circuits for RLN
 
 * [RLN JS](https://github.com/Rate-Limiting-Nullifier/rlnjs) - Typescript library for RLN
 
