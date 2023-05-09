@@ -1,20 +1,17 @@
-<!-- ## Hi there 👋 Welcome to RLN! -->
-## 🚯 Rate-Limiting Nullifier
-**RLN** is a [zero-knowledge](https://simple.wikipedia.org/wiki/Zero-knowledge_proof) gadget that enables spam prevention in anonymous environments 🧙
+<h2 align="center"> 🚯 Rate-Limiting Nullifier</h2>
 
-*Circuits, contracts, and libraries are not audited yet, please use caution when considering these for production*
+<p align="center"><b>Rate-Limiting Nullifier (or RLN)</b> is a <a href="https://simple.wikipedia.org/wiki/Zero-knowledge_proof">zero-knowledge</a> gadget that enables spam prevention in anonymous environments 🧙</p>
 
-* [Documentation](https://rate-limiting-nullifier.github.io/rln-docs/) - Learn how RLN works
+<p align="center"><i>Circuits, contracts, and libraries are not audited yet, please use caution when considering these for production</i></p>
 
-* [RLN Circuits v2](https://github.com/Rate-Limiting-Nullifier/rln-circuits-v2) - Circom circuits for RLN (version 2)
+___
 
-* [RLNjs](https://github.com/Rate-Limiting-Nullifier/rlnjs) - Javascript (Typescript) library for RLN
+Want to learn how **RLN** works? Check out:
 
-* [Persistent Merkle Tree (PMTree)](https://github.com/Rate-Limiting-Nullifier/pmtree) - Rust Persistent Merkle Tree library in collaboration with Vac team to support the RLN ecosystem.
+* [Documentation](https://rate-limiting-nullifier.github.io/rln-docs/)
 
-*This Github organization is maintained by the **PSE** ([Privacy & Scaling Explorations](https://github.com/privacy-scaling-explorations/)), a multidisciplinary team supported by the **Ethereum Foundation**. **PSE** explores new use cases for zero-knowledge proofs and other cryptographic primitives.*
+* [PSE/Vac RLN RFC](https://rfc.vac.dev/spec/58/)
 
-### Demos / Proof of Concepts / Archive
-* [RLNjs Demo](https://github.com/Rate-Limiting-Nullifier/rlnjs-demo)
-* [RLN Circuits v1](https://github.com/Rate-Limiting-Nullifier/rln-circuits)
-* [ZK-Chat (Client-Server Model)](https://github.com/Rate-Limiting-Nullifier/zk-chat-client-server) Using [Interep](https://github.com/interep-project)
+___
+
+<p align="center"><i>This Github organization is maintained by the <b>PSE</b> (<a href="https://github.com/privacy-scaling-explorations/,">Privacy & Scaling Explorations</a>) a multidisciplinary team supported by the <b>Ethereum Foundation</b>. <b>PSE</b> explores new use cases for zero-knowledge proofs and other cryptographic primitives.<i></p>
